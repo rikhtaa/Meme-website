@@ -1,1 +1,1 @@
-# Memes-website
+# Meme-website
